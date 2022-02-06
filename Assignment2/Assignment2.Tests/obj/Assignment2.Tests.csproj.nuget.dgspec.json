@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj": {}
+    "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj": {
+    "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj",
+        "projectUniqueName": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj",
         "projectName": "Assignment2.Tests",
-        "projectPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2.Tests\\obj\\",
+        "projectPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2.Tests\\Assignment2.Tests.csproj",
+        "packagesPath": "C:\\Users\\pjsol\\.nuget\\packages\\",
+        "outputPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pjsol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
-                "projectPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj"
+              "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj": {
+                "projectPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj"
               }
             }
           }
@@ -72,21 +72,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
+    "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\obj\\",
+        "projectPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "packagesPath": "C:\\Users\\pjsol\\.nuget\\packages\\",
+        "outputPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pjsol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,7 +126,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

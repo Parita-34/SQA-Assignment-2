@@ -21,32 +21,33 @@ namespace Assignment2
         }
         public double ConvertCelciusToFahrenheit()
         {
-            return (userValue * 9 / 5) + 32;
+            Console.WriteLine($"C: ${(39.90 * 9 / 5) + 32}");
+            return Math.Round((Convert.ToDouble(userValue) * 9 / 5) + 32,2);
         }
 
         public double ConvertCelciusToKelvin()
         {
-            return userValue + 273.15;
+            return Math.Round(Convert.ToDouble(userValue) + 273.15,2);
         }
 
         public double ConvertKelvinToFahrenheit()
         {
-            return (userValue - 273.15) * 9 / 5 + 32;
+            return Math.Round((Convert.ToDouble(userValue) - 273.15) * 9 / 5 + 32,2);
         }
 
         public double ConvertKelvinToCelsius()
         {
-            return userValue - 273.15;
+            return Math.Round(Convert.ToDouble(userValue) - 273.15,2);
         }
 
         public double ConvertFahrenheitToKelvin()
         {
-            return (userValue - 32) * 5 / 9 + 273.15;
+            return Math.Round((Convert.ToDouble(userValue) - 32) * 5 / 9 + 273.15,2);
         }
 
         public double ConvertFahrenheitToCelsius()
         {
-            return (userValue - 32) * 5 / 9;
+            return Math.Round((Convert.ToDouble(userValue) - 32) * 5 / 9,2);
         }
     }
 }

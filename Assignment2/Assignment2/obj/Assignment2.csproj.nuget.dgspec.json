@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {}
+    "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj": {
+    "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "projectUniqueName": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj",
         "projectName": "Assignment2",
-        "projectPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\Assignment2.csproj",
-        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Pictures\\Assignment2\\Assignment2\\Assignment2\\obj\\",
+        "projectPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\Assignment2.csproj",
+        "packagesPath": "C:\\Users\\pjsol\\.nuget\\packages\\",
+        "outputPath": "D:\\Assignment 2\\SQA-Assignment-2\\Assignment2\\Assignment2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pjsol\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

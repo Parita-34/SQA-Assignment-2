@@ -157,7 +157,7 @@ namespace Assignment2.Tests
         public void ConvertFahrenheitToKelvinTest()
         {
             int userValue = 4;
-            double expectedValue = 257.594;
+            double expectedValue = 257.59;
             var conversion = new Conversion(userValue);
             //act
             result = conversion.ConvertFahrenheitToKelvin();
@@ -169,7 +169,7 @@ namespace Assignment2.Tests
         public void ConvertFahrenheitToKelvinTest1()
         {
             int userValue = 57;
-            double expectedValue = 287.039;
+            double expectedValue = 287.04;
             var conversion = new Conversion(userValue);
             //act
             result = conversion.ConvertFahrenheitToKelvin();
@@ -181,7 +181,7 @@ namespace Assignment2.Tests
         public void ConvertFahrenheitToKelvinTest2()
         {
             int userValue = 67;
-            double expectedValue = 292.594;
+            double expectedValue = 292.59;
             var conversion = new Conversion(userValue);
             //act
             result = conversion.ConvertFahrenheitToKelvin();
@@ -205,7 +205,7 @@ namespace Assignment2.Tests
         public void ConvertFahrenheitToCelsiusTest1()
         {
             int userValue = 65;
-            double expectedValue = 18.3333;
+            double expectedValue = 18.33;
             var conversion = new Conversion(userValue);
             //act
             result = conversion.ConvertFahrenheitToCelsius();
@@ -217,7 +217,7 @@ namespace Assignment2.Tests
         public void ConvertFahrenheitToCelsiusTest2()
         {
             int userValue = 34;
-            double expectedValue = 1.11111;
+            double expectedValue = 1.11;
             var conversion = new Conversion(userValue);
             //act
             result = conversion.ConvertFahrenheitToCelsius();
